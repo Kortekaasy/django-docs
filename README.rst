@@ -24,6 +24,7 @@ Credits
 * Project on GitHub: `littlepea/django-docs <https://github.com/littlepea/django-docs/>`_
 * `Documentation on Read The Docs <https://django-docs.readthedocs.org/>`_
 * Maintained by `Evgeny Demchenko <https://github.com/littlepea>`_
+* django.conf.urls fix by `fpoulain <https://github.com/littlepea/django-docs/pull/34>`_
 
 Installation
 ------------
